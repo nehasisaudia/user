@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: Neha
+Build-Jdk: 17.0.4.1
+Class-Path: libs/mysql-connector-java-8.0.29.jar libs/protobuf-java-3.19
+ .4.jar
+Main-Class: jdbctut.Test
+Created-By: Maven Integration for Eclipse
+
